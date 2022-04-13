@@ -6,6 +6,8 @@
 
 An open source interface for Uniswap -- a protocol for decentralized exchange of Ethereum tokens.
 
+`commit at 779844391916120df27d436d6da9928616f99b14` of last version of uni
+
 - Website: [uniswap.org](https://uniswap.org/)
 - Interface: [app.uniswap.org](https://app.uniswap.org)
 - Docs: [uniswap.org/docs/](https://uniswap.org/docs/)
